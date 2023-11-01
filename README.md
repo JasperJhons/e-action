@@ -2,7 +2,7 @@
 # Emcee.cloud action
 
 [![GitHub Super-Linter](https://github.com/JasperJhons/e-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
-![coverage](badges/coverage.svg)
+![coverage](inner/badges/coverage.svg)
 
 This action implements basic API calls for [emcee.cloud](https://emcee.cloud/)
 
