@@ -19,7 +19,7 @@ jobs:
 
       - name: Run tests
         id: emcee
-        uses: ./
+        uses: avito-tech/Emcee.cloud.action@v0.0.1b
         with:
           emcee_token: ${{ secrets.EMCEE_TOKEN }}
           app_path: https://emcee.cloud/api/v1/file/download/0ecf3b28-a6e6-4c41-9762-55fdd107c6aa#app-debug.apk
